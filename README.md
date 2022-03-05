@@ -2,7 +2,7 @@
 
 This repository contains the original implementation for training LSTMs, performing LSTM-to-Hybrid LSTM conversion, and evaluating.
 
-For more details or citation purpose, please visit [link to the paper] (https://ieeexplore.ieee.org/document/9473953) 
+For more details or citation purpose, please visit [link to the paper](https://ieeexplore.ieee.org/document/9473953) 
 ```
 @inproceedings{ponghiran2021hybrid,
   title={Hybrid Analog-Spiking Long Short-Term Memory for Energy Efficient Computing on Edge Devices},
