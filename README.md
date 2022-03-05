@@ -80,17 +80,20 @@ Average hybrid LSTM performance of sequential  recognition with rows of images i
 | SNN time-steps | 16    | 32    | 64    | 128   |
 |----------------|-------|-------|-------|-------|
 | Accuracy (%)   | 92.89 | 98.37 | 98.74 | 98.81 | 
+
 Average accuracy with ModifiedLSTMCell and BaselineLSTMCell are 98.95 and 98.97 respectively.
 
 Average hybrid LSTM performance of sequential  recognition with pixels of images is:
 | SNN time-steps | 32    | 128   | 256   | 512   | 1024  |
 |----------------|-------|-------|-------|-------|-------|
 | Accuracy (%)   | 11.89 | 33.28 | 81.15 | 96.03 | 97.61 |
+
 Average accuracy with ModifiedLSTMCell and BaselineLSTMCell are 97.93 and 97.71 respectively.
 
 Average hybrid LSTM performance of sequential  recognition with pixels of images is:
 | SNN time-steps | 32   | 64    | 96    | 128   | 192   | 256   |
 |----------------|------|-------|-------|-------|-------|-------|
 | BLEU score     | 6.72 | 17.59 | 20.85 | 22.16 | 23.13 | 23.51 |
+
 Average BLEU score with ModifiedLSTMCell and BaselineLSTMCell are 24.15 and 25.00 respectively.
 
